@@ -1,2 +1,2 @@
 # Sw_tools-task
-Redhat calculation 
+Redhat calculation using POST ,GET Methods 
